@@ -18,7 +18,8 @@ public class Game extends Application {
 	private SudokuController  SC = null;	
 	private BorderPane GameBorderPane = null;
 	private Sudoku sudoku = null;
-
+	
+	
 
 	public static void main(String[] args) {
 		launch(args);
